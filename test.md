@@ -3,6 +3,6 @@
 * committing changes
 * cloning repositories
 
-##Confusing things
+## Confusing things
 * The github interface
 * (But that's probably a matter of practice)
